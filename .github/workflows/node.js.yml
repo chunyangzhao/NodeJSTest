@@ -19,5 +19,4 @@ jobs:
       with:
         node-version: '18.16.0'
     - run: npm install
-    - run: run build --if-present
     - run: npm start
