@@ -20,4 +20,4 @@ jobs:
       with:
         node-version: '18.16.0'
     - run: npm install
-    - run: npm love
+    - run: npm run love
